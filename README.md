@@ -2,6 +2,10 @@
 
 I'm a Developer, Product & Technical Project Manager and Data Enthusiast!!
 
+- 🔭 I’m currently working on DataLakes & Analytics
+- 🌱 I’m currently learning Superset Apache, python
+- 👯 I’m looking to collaborate on Project & Product management
+
 <!--
 **smartydarren/smartydarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
